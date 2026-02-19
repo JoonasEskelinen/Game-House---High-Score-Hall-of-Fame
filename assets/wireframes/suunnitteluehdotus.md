@@ -1,7 +1,8 @@
 # Suunnitteluehdotus
 
 Game House: High Score Hall of Fame
-Visio: Luoda high-score listaus "ilmoitustaululle" retropeliluolaan, jossa listattuna kaikkien pelien ennätykset. Näyttö toimii peliluolan dynaamisena keskipisteenä, joka kunnioittaa 80- ja 90-luvun estetiikkaa (pixel art, scanlines, neonvärit).
+Visio: Luoda high-score listaus "ilmoitustaululle" retropeliluolaan, jossa listattuna kaikkien pelien ennätykset. Näyttö toimii peliluolan dynaamisena keskipisteenä, joka kunnioittaa 80- ja 90-luvun estetiikkaa. Ajatuksena tässä projektissa, että ihmiset tulisivat uudestaan peliluolaan rikkomaan ennätyksiä, koska ne ovat kaikkien nähtävillä jossain näkyvässä kohtaa. 
+Tätä projektia mahdollisuus käyttää jatkossa myös muissa vastaavissa käytöissä.
 
 Tekniset ratkaisut:
 
